@@ -10,8 +10,9 @@ public class Loop {
 
 
         for(int i : a)
-        System.out.print(i+" ");
-        System.out.println("\nThis is LOOP Class ");
+        System.out.print(i+" ");        // this is for-each loop
+        System.out.println("\nThis is use of 'For-each' loop");
+        System.out.println("This is LOOP Class ");
 
 
     }
